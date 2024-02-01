@@ -44,7 +44,4 @@ void draw() {
   // 3 % 3 = 0
 
   //Add the code for 6.c here
-  red = counter==0 ? (int)random(255):red; 
-  green = counter==0 ? (int)random(255):green; 
-  blue = counter==0 ? (int)random(255):blue; 
 }
